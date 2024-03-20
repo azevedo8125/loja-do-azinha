@@ -1,0 +1,12 @@
+ex15
+vou pedir o nome completo em str usar a, upper() para meter o nome em maiusculas,lower() para meter em minusculas,
+capitalize() para meter as primeiras letras em maiuscula,len() para contar as letras do primeiro nome e usar split()para remover os espaços e um print para apresentar um resultado
+******************************************************************************************************************************
+ex 16
+
+Vou pedir um numero entre 0 e 9999 utilizando int, utilizar um if para verificar o nr e vou utilizar lista para separar as unidades e um if para meter 0 onde nao tem caracter e um print para apresentar um resultado
+
+******************************************************************************************************************************
+ex 17
+
+Vou pedir o nome de uma cidade e vou utilizar um if e a string startswith(vila) para ver se começa por vila ou nao e um print para apresentar um resultado

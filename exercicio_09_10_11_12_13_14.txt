@@ -1,0 +1,32 @@
+Exercicio 09
+ler o dinheiro que a pessoa tem float
+fazer a conversão de euros para dolar americano e zloty polaco
+mostrar o valor
+
+====================================================================================================
+Exercicio 10
+Ler a alt e larg da parede em metros float
+calcular a area da parede (alt*larg) descobrir a area da parede 
+dividir a area da parede que sera igual aos litros de tinta que vammos precisar
+====================================================================================================
+Exercicio 11
+Ler o valor do produto float
+fazer o valor do produto*0,05 
+mostrar o valor com menos 5%
+====================================================================================================
+Exercicio 12
+Pedir o valor do desconto e do produto(prod) que a pessoa deseja e nao pode ser maior do que 1.00(desc) float
+fazer prod*desc
+e apresentar resultado
+====================================================================================================
+Exercicio 13
+Pedir a temperatura em graus ºC(C) float 
+fazer C*1,8+32
+apresentar om resultado
+====================================================================================================
+Exercicio 14
+Pedir os dias que o carro foi alugado(alug) e os Km(KM) percorridos
+preço=60*alug + 0,32*Km
+apresentar o preço
+
+
